@@ -1,0 +1,14 @@
+README.md
+setup.py
+image_processing_devluiseduardo/__init__.py
+image_processing_devluiseduardo.egg-info/PKG-INFO
+image_processing_devluiseduardo.egg-info/SOURCES.txt
+image_processing_devluiseduardo.egg-info/dependency_links.txt
+image_processing_devluiseduardo.egg-info/requires.txt
+image_processing_devluiseduardo.egg-info/top_level.txt
+image_processing_devluiseduardo/processing/__init__.py
+image_processing_devluiseduardo/processing/combination.py
+image_processing_devluiseduardo/processing/transformation.py
+image_processing_devluiseduardo/utils/__init__.py
+image_processing_devluiseduardo/utils/io.py
+image_processing_devluiseduardo/utils/plot.py

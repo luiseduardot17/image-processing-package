@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: image_processing_devluiseduardo
+Version: 0.0.1
+Summary: Image processing package using skimage
+Home-page: https://github.com/luiseduardot17/image-processing-package
+Author: Luis Eduardo
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-imagem>=0.16.1
+
 # image_processing_devluiseduardo
 
 Description. 
